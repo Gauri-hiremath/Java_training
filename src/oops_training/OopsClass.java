@@ -1,2 +1,4 @@
-package oops_training;public class OopsClass {
+package oops_training;
+
+public class OopsClass {
 }
