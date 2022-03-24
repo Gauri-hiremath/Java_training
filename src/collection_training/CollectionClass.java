@@ -1,2 +1,4 @@
-package collection_training;public class CollectionClass {
+package collection_training;
+
+public class CollectionClass {
 }
