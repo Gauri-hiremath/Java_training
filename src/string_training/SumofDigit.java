@@ -1,2 +1,4 @@
-package string_training;public class SumofDigit {
+package string_training;
+public class SumofDigit {
+
 }

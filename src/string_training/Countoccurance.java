@@ -1,2 +1,3 @@
-package string_training;public class Countoccurance {
+package string_training;
+public class Countoccurance {
 }

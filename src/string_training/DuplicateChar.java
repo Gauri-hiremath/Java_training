@@ -1,2 +1,3 @@
-package string_training;public class DuplicateChar {
+package string_training;
+public class DuplicateChar {
 }
