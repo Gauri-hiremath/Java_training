@@ -1,18 +1,14 @@
 package string_training;
+
 public class ReverseString {
-    public static void main (String[] args) {
-        String str= "Gauri",
-                nstr="";
-        char ch;
-
-        System.out.print("Original word: ");
-        System.out.println("Geeks"); //Example word
-
-        for (int i=0; i<str.length(); i++)
-        {
-            ch= str.charAt(i); //extracts each character
-            nstr= ch+nstr; //adds each character in front of the existing string
+    public  static void main (String  args[]){
+        String str="Gauri Hiremath";
+        String revstr= " ";
+        for (int i = str.length()-1 ;i>=0; i--) {
+            revstr=revstr+str.charAt(i);
         }
-        System.out.println("Reversed word: "+ nstr);
+        System.out.println("Original string :"+str);
+        System.out.println("Reverse String :" +revstr);
+
     }
 }

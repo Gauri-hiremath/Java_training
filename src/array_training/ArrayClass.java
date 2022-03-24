@@ -1,2 +1,4 @@
-package array_training;public class ArrayClass {
+package array_training;
+
+public class ArrayClass {
 }
