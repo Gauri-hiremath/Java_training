@@ -1,4 +1,4 @@
-package array_training;
+package array_training.Array;
 
 public class ReturnArray {
     public  static void main(String args[]){

@@ -1,4 +1,4 @@
-package array_training;
+package array_training.Array;
 
 public class ArrayLength {
 

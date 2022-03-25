@@ -1,4 +1,4 @@
-package array_training;
+package array_training.Array;
 import java.util.Scanner;
 
 public class GetArrayInput {

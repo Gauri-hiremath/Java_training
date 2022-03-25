@@ -1,4 +1,4 @@
-package array_training;
+package array_training.Array;
 public class ArrUsingForeach {
     public static void main (String args[]){
         int [] arr={10,20,30,40,50};
