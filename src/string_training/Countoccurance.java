@@ -1,5 +1,4 @@
 package string_training;
-
 public class Countoccurance {
     static final int MAX_CHAR = 256;
     static void getOccuringChar(String str)
